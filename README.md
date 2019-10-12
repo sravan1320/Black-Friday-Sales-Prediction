@@ -1,5 +1,5 @@
-#[title](BlackFriday.png)
-#[title](BlackFriday.png)
+![title](BlackFriday.png)
+
 
 # Black-Friday-Sales-Prediction
 Analytics Vidhya - Black Friday Sales Prediction
@@ -32,7 +32,7 @@ Your model performance will be evaluated on the basis of your prediction of the 
 
 We at our end, have the actual purchase amount for the test dataset, against which your predictions will be evaluated. Submissions are scored on the root mean squared error (RMSE). RMSE is very common and is a suitable general-purpose error metric. Compared to the Mean Absolute Error, RMSE punishes large errors:
 
-#[title](rmse.png)
+![title](rmse.png)
 
 Where y hat is the predicted value and y is the original value.
 
