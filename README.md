@@ -1,4 +1,5 @@
 #[title](BlackFriday.png)
+#[title](BlackFriday.png)
 
 # Black-Friday-Sales-Prediction
 Analytics Vidhya - Black Friday Sales Prediction
