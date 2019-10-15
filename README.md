@@ -15,6 +15,7 @@ to build a model to predict the purchase amount of customer against various prod
 
 ## Data
 |Variable	|Definition|
+|----------------------|-------------------------------|
 |User_ID	|User ID|
 |Product_ID	|Product ID|
 |Gender	|Sex of User|
@@ -27,6 +28,7 @@ to build a model to predict the purchase amount of customer against various prod
 |Product_Category_2	|Product may belongs to other category also (Masked)|
 |Product_Category_3	|Product may belongs to other category also (Masked)|
 |Purchase	|Purchase Amount (Target Variable)|
+
 
 Your model performance will be evaluated on the basis of your prediction of the purchase amount for the test data (test.csv), which contains similar data-points as train except for their purchase amount. Your submission needs to be in the format as shown in "SampleSubmission.csv".
 
